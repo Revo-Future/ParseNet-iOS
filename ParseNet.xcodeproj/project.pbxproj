@@ -10,7 +10,6 @@
 		7B0233A41D72041200944BBE /* Shaders.metal in Sources */ = {isa = PBXBuildFile; fileRef = 7B0233A31D72041200944BBE /* Shaders.metal */; };
 		7B0233A61D720B1600944BBE /* MobileNetsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B0233A51D720B1600944BBE /* MobileNetsData.swift */; };
 		7B0233DA1D731CC300944BBE /* MobileNetsLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B0233D91D731CC300944BBE /* MobileNetsLabels.swift */; };
-		7B0233FC1D7349E400944BBE /* sophie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7B0233FB1D7349E400944BBE /* sophie.jpg */; };
 		7B24FE1E1D6DE49100077C27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B24FE1D1D6DE49100077C27 /* AppDelegate.swift */; };
 		7B24FE201D6DE49100077C27 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B24FE1F1D6DE49100077C27 /* ViewController.swift */; };
 		7B24FE231D6DE49100077C27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B24FE211D6DE49100077C27 /* Main.storyboard */; };
@@ -43,7 +42,6 @@
 		7B0233A31D72041200944BBE /* Shaders.metal */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.metal; path = Shaders.metal; sourceTree = "<group>"; };
 		7B0233A51D720B1600944BBE /* MobileNetsData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MobileNetsData.swift; sourceTree = "<group>"; };
 		7B0233D91D731CC300944BBE /* MobileNetsLabels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MobileNetsLabels.swift; sourceTree = "<group>"; };
-		7B0233FB1D7349E400944BBE /* sophie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sophie.jpg; sourceTree = "<group>"; };
 		7B24FE1A1D6DE49100077C27 /* ParseNet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParseNet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B24FE1D1D6DE49100077C27 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7B24FE1F1D6DE49100077C27 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -117,7 +115,6 @@
 				7B24FE241D6DE49100077C27 /* Assets.xcassets */,
 				7B24FE291D6DE49100077C27 /* Info.plist */,
 				7B24FE211D6DE49100077C27 /* Main.storyboard */,
-				7B0233FB1D7349E400944BBE /* sophie.jpg */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -224,7 +221,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B0233FC1D7349E400944BBE /* sophie.jpg in Resources */,
 				7B24FE251D6DE49100077C27 /* Assets.xcassets in Resources */,
 				E66AF57A1F3875DE007832C3 /* wx.jpg in Resources */,
 				7B24FE231D6DE49100077C27 /* Main.storyboard in Resources */,
